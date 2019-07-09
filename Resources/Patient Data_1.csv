@@ -1,0 +1,727 @@
+patientid,Treatment,sampleid,panel,visitc,batch,qc,ctrl,bmtype,revision_id,gate_full_path,gate_path,param,cell_prop,cell_count
+33481,2 mg Dose,QW00774,FLOW_Myeloid_PBMC,D1,8,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.317145722,150224
+33481,2 mg Dose,QW00774,FLOW_Myeloid_PBMC,D1,8,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.030206677,247
+33481,2 mg Dose,QW00774,FLOW_Myeloid_PBMC,D1,8,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.66492478,98740
+33481,2 mg Dose,QW00758,FLOW_Myeloid_PBMC,D15,8,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.305495365,72608
+33481,2 mg Dose,QW00758,FLOW_Myeloid_PBMC,D15,8,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.012004989,77
+33481,2 mg Dose,QW00758,FLOW_Myeloid_PBMC,D15,8,FAIL,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.581893163,42189
+33481,2 mg Dose,QW00691,FLOW_Myeloid_PBMC,D3,8,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.199013158,72479
+33481,2 mg Dose,QW00691,FLOW_Myeloid_PBMC,D3,8,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.023054755,184
+33481,2 mg Dose,QW00691,FLOW_Myeloid_PBMC,D3,8,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.543061738,39284
+33481,2 mg Dose,QW00741,FLOW_Myeloid_PBMC,D5,8,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.215960399,74472
+33481,2 mg Dose,QW00741,FLOW_Myeloid_PBMC,D5,8,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.010896899,91
+33481,2 mg Dose,QW00741,FLOW_Myeloid_PBMC,D5,8,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.534886538,39741
+33481,2 mg Dose,QW00753,FLOW_Myeloid_PBMC,D7,8,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.23405664,71762
+33481,2 mg Dose,QW00753,FLOW_Myeloid_PBMC,D7,8,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.022557885,227
+33481,2 mg Dose,QW00753,FLOW_Myeloid_PBMC,D7,8,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.475621849,34055
+33482,1 mg Dose,QW00661,FLOW_Myeloid_PBMC,D1,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.785064238,276995
+33482,1 mg Dose,QW00661,FLOW_Myeloid_PBMC,D1,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.064828068,3714
+33482,1 mg Dose,QW00661,FLOW_Myeloid_PBMC,D1,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.492990705,135674
+33482,1 mg Dose,QW00712,FLOW_Myeloid_PBMC,D15,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.516976962,152030
+33482,1 mg Dose,QW00712,FLOW_Myeloid_PBMC,D15,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.051021074,1564
+33482,1 mg Dose,QW00712,FLOW_Myeloid_PBMC,D15,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.496590328,74787
+33482,1 mg Dose,QW00648,FLOW_Myeloid_PBMC,D3,1,FAIL,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.695627166,192295
+33482,1 mg Dose,QW00648,FLOW_Myeloid_PBMC,D3,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.093093743,4300
+33482,1 mg Dose,QW00648,FLOW_Myeloid_PBMC,D3,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.446587988,85142
+33482,1 mg Dose,QW00611,FLOW_Myeloid_PBMC,D5,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.552709962,169976
+33482,1 mg Dose,QW00611,FLOW_Myeloid_PBMC,D5,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.110922315,9074
+33482,1 mg Dose,QW00611,FLOW_Myeloid_PBMC,D5,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.144373915,24041
+33482,1 mg Dose,QW00656,FLOW_Myeloid_PBMC,D7,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.630953273,235709
+33482,1 mg Dose,QW00656,FLOW_Myeloid_PBMC,D7,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.098372258,5699
+33482,1 mg Dose,QW00656,FLOW_Myeloid_PBMC,D7,1,FAIL,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.398738532,93310
+33483,2 mg Dose,QW00746,FLOW_Myeloid_PBMC,D1,1,FAIL,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.670766356,228296
+33483,2 mg Dose,QW00746,FLOW_Myeloid_PBMC,D1,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.099060906,4019
+33483,2 mg Dose,QW00746,FLOW_Myeloid_PBMC,D1,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.469938559,106927
+33483,2 mg Dose,QW00764,FLOW_Myeloid_PBMC,D15,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.345319391,155344
+33483,2 mg Dose,QW00764,FLOW_Myeloid_PBMC,D15,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.072555205,1495
+33483,2 mg Dose,QW00764,FLOW_Myeloid_PBMC,D15,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.315351277,48823
+33483,2 mg Dose,QW00762,FLOW_Myeloid_PBMC,D3,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.489256484,147116
+33483,2 mg Dose,QW00762,FLOW_Myeloid_PBMC,D3,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.224962533,8556
+33483,2 mg Dose,QW00762,FLOW_Myeloid_PBMC,D3,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.254051211,37187
+33483,2 mg Dose,QW00674,FLOW_Myeloid_PBMC,D5,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.469887918,231167
+33483,2 mg Dose,QW00674,FLOW_Myeloid_PBMC,D5,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.148439472,7058
+33483,2 mg Dose,QW00674,FLOW_Myeloid_PBMC,D5,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.2453206,56410
+33483,2 mg Dose,QW00775,FLOW_Myeloid_PBMC,D7,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.503642344,170423
+33483,2 mg Dose,QW00775,FLOW_Myeloid_PBMC,D7,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.235241698,11879
+33483,2 mg Dose,QW00775,FLOW_Myeloid_PBMC,D7,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.235404053,39929
+33484,Placebo,QW00579,FLOW_Myeloid_PBMC,D1,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.62603362,276186
+33484,Placebo,QW00579,FLOW_Myeloid_PBMC,D1,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.03329156,611
+33484,Placebo,QW00579,FLOW_Myeloid_PBMC,D1,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.641687979,174885
+33484,Placebo,QW00649,FLOW_Myeloid_PBMC,D15,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.667820155,269408
+33484,Placebo,QW00649,FLOW_Myeloid_PBMC,D15,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.036872411,730
+33484,Placebo,QW00649,FLOW_Myeloid_PBMC,D15,1,FAIL,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.549136613,147240
+33484,Placebo,QW00542,FLOW_Myeloid_PBMC,D3,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.7021961,231177
+33484,Placebo,QW00542,FLOW_Myeloid_PBMC,D3,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.013760872,212
+33484,Placebo,QW00542,FLOW_Myeloid_PBMC,D3,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.638783931,146912
+33484,Placebo,QW00560,FLOW_Myeloid_PBMC,D5,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.708975279,296536
+33484,Placebo,QW00560,FLOW_Myeloid_PBMC,D5,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.014670773,424
+33484,Placebo,QW00560,FLOW_Myeloid_PBMC,D5,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.527975785,155765
+33484,Placebo,QW00562,FLOW_Myeloid_PBMC,D7,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.692041908,223524
+33484,Placebo,QW00562,FLOW_Myeloid_PBMC,D7,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.021961287,548
+33484,Placebo,QW00562,FLOW_Myeloid_PBMC,D7,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.53569954,119371
+33485,1 mg Dose,QW00617,FLOW_Myeloid_PBMC,D1,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.533620609,188724
+33485,1 mg Dose,QW00617,FLOW_Myeloid_PBMC,D1,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.152631242,4774
+33485,1 mg Dose,QW00617,FLOW_Myeloid_PBMC,D1,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.428815082,80203
+33485,1 mg Dose,QW00667,FLOW_Myeloid_PBMC,D15,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.462241183,161006
+33485,1 mg Dose,QW00667,FLOW_Myeloid_PBMC,D15,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.055771865,1547
+33485,1 mg Dose,QW00667,FLOW_Myeloid_PBMC,D15,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.411720951,65315
+33485,1 mg Dose,QW00705,FLOW_Myeloid_PBMC,D3,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.545621331,200745
+33485,1 mg Dose,QW00705,FLOW_Myeloid_PBMC,D3,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.103726172,4685
+33485,1 mg Dose,QW00705,FLOW_Myeloid_PBMC,D3,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.395800701,78080
+33485,1 mg Dose,QW00675,FLOW_Myeloid_PBMC,D5,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.515156038,186368
+33485,1 mg Dose,QW00675,FLOW_Myeloid_PBMC,D5,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.099124563,5050
+33485,1 mg Dose,QW00675,FLOW_Myeloid_PBMC,D5,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.32577385,59600
+33485,1 mg Dose,QW00646,FLOW_Myeloid_PBMC,D7,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.452576916,164194
+33485,1 mg Dose,QW00646,FLOW_Myeloid_PBMC,D7,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.087087235,3534
+33485,1 mg Dose,QW00646,FLOW_Myeloid_PBMC,D7,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.316760289,51089
+33486,1 mg Dose,QW00575,FLOW_Myeloid_PBMC,D1,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.355192976,173873
+33486,1 mg Dose,QW00575,FLOW_Myeloid_PBMC,D1,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.022241299,570
+33486,1 mg Dose,QW00575,FLOW_Myeloid_PBMC,D1,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.525582179,90459
+33486,1 mg Dose,QW00558,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.141504024,148050
+33486,1 mg Dose,QW00558,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.033033778,533
+33486,1 mg Dose,QW00558,FLOW_Myeloid_PBMC,D15,7,FAIL,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.513690617,75962
+33486,1 mg Dose,QW00594,FLOW_Myeloid_PBMC,D3,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.515701672,201677
+33486,1 mg Dose,QW00594,FLOW_Myeloid_PBMC,D3,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.035564997,1557
+33486,1 mg Dose,QW00594,FLOW_Myeloid_PBMC,D3,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.481753139,96354
+33486,1 mg Dose,QW00598,FLOW_Myeloid_PBMC,D5,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.469102285,231365
+33486,1 mg Dose,QW00598,FLOW_Myeloid_PBMC,D5,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.034703746,1500
+33486,1 mg Dose,QW00598,FLOW_Myeloid_PBMC,D5,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.390242412,89378
+33486,1 mg Dose,QW00559,FLOW_Myeloid_PBMC,D7,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.518502064,179732
+33486,1 mg Dose,QW00559,FLOW_Myeloid_PBMC,D7,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.031864752,1751
+33486,1 mg Dose,QW00559,FLOW_Myeloid_PBMC,D7,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.386668946,67843
+33487,1 mg Dose,QW00571,FLOW_Myeloid_PBMC,D1,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.866503163,160401
+33487,1 mg Dose,QW00571,FLOW_Myeloid_PBMC,D1,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.118451025,2288
+33487,1 mg Dose,QW00571,FLOW_Myeloid_PBMC,D1,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.668451336,106997
+33487,1 mg Dose,QW00664,FLOW_Myeloid_PBMC,D15,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.788107153,174018
+33487,1 mg Dose,QW00664,FLOW_Myeloid_PBMC,D15,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.069939816,1104
+33487,1 mg Dose,QW00664,FLOW_Myeloid_PBMC,D15,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.674773282,116893
+33487,1 mg Dose,QW00681,FLOW_Myeloid_PBMC,D3,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.817153097,195624
+33487,1 mg Dose,QW00681,FLOW_Myeloid_PBMC,D3,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.157216329,4891
+33487,1 mg Dose,QW00681,FLOW_Myeloid_PBMC,D3,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.62010588,120765
+33487,1 mg Dose,QW00714,FLOW_Myeloid_PBMC,D5,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.795758787,169238
+33487,1 mg Dose,QW00714,FLOW_Myeloid_PBMC,D5,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.176546617,5054
+33487,1 mg Dose,QW00714,FLOW_Myeloid_PBMC,D5,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.597326187,100306
+33487,1 mg Dose,QW00604,FLOW_Myeloid_PBMC,D7,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.74642564,181889
+33487,1 mg Dose,QW00604,FLOW_Myeloid_PBMC,D7,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.163820828,4941
+33487,1 mg Dose,QW00604,FLOW_Myeloid_PBMC,D7,1,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.573925238,103543
+33488,2 mg Dose,QW00738,FLOW_Myeloid_PBMC,D1,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.809952989,203819
+33488,2 mg Dose,QW00738,FLOW_Myeloid_PBMC,D1,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.051247242,1208
+33488,2 mg Dose,QW00738,FLOW_Myeloid_PBMC,D1,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.600021047,119739
+33488,2 mg Dose,QW00740,FLOW_Myeloid_PBMC,D15,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.499051515,107599
+33488,2 mg Dose,QW00740,FLOW_Myeloid_PBMC,D15,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.054597701,798
+33488,2 mg Dose,QW00740,FLOW_Myeloid_PBMC,D15,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.531860352,56641
+33488,2 mg Dose,QW00766,FLOW_Myeloid_PBMC,D3,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.559192982,127496
+33488,2 mg Dose,QW00766,FLOW_Myeloid_PBMC,D3,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.102536026,2341
+33488,2 mg Dose,QW00766,FLOW_Myeloid_PBMC,D3,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.462723678,57691
+33488,2 mg Dose,QW00676,FLOW_Myeloid_PBMC,D5,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.521712244,109678
+33488,2 mg Dose,QW00676,FLOW_Myeloid_PBMC,D5,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.077478123,1514
+33488,2 mg Dose,QW00676,FLOW_Myeloid_PBMC,D5,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.438302156,47025
+33488,2 mg Dose,QW00755,FLOW_Myeloid_PBMC,D7,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.399923907,85143
+33488,2 mg Dose,QW00755,FLOW_Myeloid_PBMC,D7,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.058970144,1112
+33488,2 mg Dose,QW00755,FLOW_Myeloid_PBMC,D7,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.392347934,32774
+33489,1 mg Dose,QW00631,FLOW_Myeloid_PBMC,D1,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.661081177,167475
+33489,1 mg Dose,QW00631,FLOW_Myeloid_PBMC,D1,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.046191968,988
+33489,1 mg Dose,QW00631,FLOW_Myeloid_PBMC,D1,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.59582366,98554
+33489,1 mg Dose,QW00710,FLOW_Myeloid_PBMC,D15,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.55381076,125658
+33489,1 mg Dose,QW00710,FLOW_Myeloid_PBMC,D15,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.024226477,267
+33489,1 mg Dose,QW00710,FLOW_Myeloid_PBMC,D15,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.651436642,80713
+33489,1 mg Dose,QW00657,FLOW_Myeloid_PBMC,D3,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.583757227,144484
+33489,1 mg Dose,QW00657,FLOW_Myeloid_PBMC,D3,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.022164023,457
+33489,1 mg Dose,QW00657,FLOW_Myeloid_PBMC,D3,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.550327643,78272
+33489,1 mg Dose,QW00582,FLOW_Myeloid_PBMC,D5,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.331359966,47968
+33489,1 mg Dose,QW00582,FLOW_Myeloid_PBMC,D5,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.073763478,1293
+33489,1 mg Dose,QW00582,FLOW_Myeloid_PBMC,D5,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.224720047,10676
+33489,1 mg Dose,QW00557,FLOW_Myeloid_PBMC,D7,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.535278791,118128
+33489,1 mg Dose,QW00557,FLOW_Myeloid_PBMC,D7,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.029803483,640
+33489,1 mg Dose,QW00557,FLOW_Myeloid_PBMC,D7,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.502487434,58684
+33490,Placebo,QW00569,FLOW_Myeloid_PBMC,D1,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.775592766,186157
+33490,Placebo,QW00569,FLOW_Myeloid_PBMC,D1,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.114728946,2019
+33490,Placebo,QW00569,FLOW_Myeloid_PBMC,D1,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.660258401,121166
+33490,Placebo,QW00773,FLOW_Myeloid_PBMC,D15,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.447557024,153871
+33490,Placebo,QW00773,FLOW_Myeloid_PBMC,D15,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.166854249,1779
+33490,Placebo,QW00773,FLOW_Myeloid_PBMC,D15,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.488985833,74763
+33490,Placebo,QW00606,FLOW_Myeloid_PBMC,D3,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.747830971,187731
+33490,Placebo,QW00606,FLOW_Myeloid_PBMC,D3,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.213917265,4230
+33490,Placebo,QW00606,FLOW_Myeloid_PBMC,D3,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.651465359,120925
+33490,Placebo,QW00754,FLOW_Myeloid_PBMC,D5,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.731062134,155899
+33490,Placebo,QW00754,FLOW_Myeloid_PBMC,D5,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.110495382,1316
+33490,Placebo,QW00754,FLOW_Myeloid_PBMC,D5,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.696515405,106998
+33490,Placebo,QW00776,FLOW_Myeloid_PBMC,D7,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.778982234,155220
+33490,Placebo,QW00776,FLOW_Myeloid_PBMC,D7,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.137702863,1977
+33490,Placebo,QW00776,FLOW_Myeloid_PBMC,D7,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.640901593,98297
+33491,1 mg Dose,QW00578,FLOW_Myeloid_PBMC,D1,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.414472542,138496
+33491,1 mg Dose,QW00578,FLOW_Myeloid_PBMC,D1,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.084334408,1727
+33491,1 mg Dose,QW00578,FLOW_Myeloid_PBMC,D1,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.491481054,67212
+33491,1 mg Dose,QW00658,FLOW_Myeloid_PBMC,D15,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.665548328,174966
+33491,1 mg Dose,QW00658,FLOW_Myeloid_PBMC,D15,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.029334376,825
+33491,1 mg Dose,QW00658,FLOW_Myeloid_PBMC,D15,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.476558802,82560
+33491,1 mg Dose,QW00603,FLOW_Myeloid_PBMC,D3,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.464531522,136674
+33491,1 mg Dose,QW00603,FLOW_Myeloid_PBMC,D3,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.063129323,1442
+33491,1 mg Dose,QW00603,FLOW_Myeloid_PBMC,D3,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.385788976,52242
+33491,1 mg Dose,QW00580,FLOW_Myeloid_PBMC,D5,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.600670093,148085
+33491,1 mg Dose,QW00580,FLOW_Myeloid_PBMC,D5,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.040698898,1160
+33491,1 mg Dose,QW00580,FLOW_Myeloid_PBMC,D5,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.370354006,54485
+33491,1 mg Dose,QW00567,FLOW_Myeloid_PBMC,D7,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.625535475,161502
+33491,1 mg Dose,QW00567,FLOW_Myeloid_PBMC,D7,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.036566812,1394
+33491,1 mg Dose,QW00567,FLOW_Myeloid_PBMC,D7,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.390796202,62595
+33492,Placebo,QW00777,FLOW_Myeloid_PBMC,D1,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.392179192,250026
+33492,Placebo,QW00777,FLOW_Myeloid_PBMC,D1,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.057630346,787
+33492,Placebo,QW00777,FLOW_Myeloid_PBMC,D1,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.29019226,71831
+33492,Placebo,QW00727,FLOW_Myeloid_PBMC,D15,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.357019033,219335
+33492,Placebo,QW00727,FLOW_Myeloid_PBMC,D15,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.057436139,733
+33492,Placebo,QW00727,FLOW_Myeloid_PBMC,D15,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.279075731,60944
+33492,Placebo,QW00772,FLOW_Myeloid_PBMC,D3,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.371432552,178639
+33492,Placebo,QW00772,FLOW_Myeloid_PBMC,D3,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.072459411,964
+33492,Placebo,QW00772,FLOW_Myeloid_PBMC,D3,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.282646179,49997
+33492,Placebo,QW00665,FLOW_Myeloid_PBMC,D5,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.381267318,121638
+33492,Placebo,QW00665,FLOW_Myeloid_PBMC,D5,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.031741547,337
+33492,Placebo,QW00665,FLOW_Myeloid_PBMC,D5,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.40954776,49020
+33492,Placebo,QW00769,FLOW_Myeloid_PBMC,D7,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.395641341,168163
+33492,Placebo,QW00769,FLOW_Myeloid_PBMC,D7,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.056111111,808
+33492,Placebo,QW00769,FLOW_Myeloid_PBMC,D7,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.318402548,52979
+33493,2 mg Dose,QW00543,FLOW_Myeloid_PBMC,D1,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.495597105,172557
+33493,2 mg Dose,QW00543,FLOW_Myeloid_PBMC,D1,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.036942022,864
+33493,2 mg Dose,QW00543,FLOW_Myeloid_PBMC,D1,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.401718676,68859
+33493,2 mg Dose,QW00711,FLOW_Myeloid_PBMC,D15,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.482690671,116843
+33493,2 mg Dose,QW00711,FLOW_Myeloid_PBMC,D15,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.01161093,167
+33493,2 mg Dose,QW00711,FLOW_Myeloid_PBMC,D15,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.422285162,48904
+33493,2 mg Dose,QW00695,FLOW_Myeloid_PBMC,D3,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.521091185,162977
+33493,2 mg Dose,QW00695,FLOW_Myeloid_PBMC,D3,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.036441202,1119
+33493,2 mg Dose,QW00695,FLOW_Myeloid_PBMC,D3,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.36902816,59601
+33493,2 mg Dose,QW00685,FLOW_Myeloid_PBMC,D5,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.555698286,141458
+33493,2 mg Dose,QW00685,FLOW_Myeloid_PBMC,D5,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.024425495,845
+33493,2 mg Dose,QW00685,FLOW_Myeloid_PBMC,D5,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.362416781,50518
+33493,2 mg Dose,QW00698,FLOW_Myeloid_PBMC,D7,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.367087459,93053
+33493,2 mg Dose,QW00698,FLOW_Myeloid_PBMC,D7,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.016181587,293
+33493,2 mg Dose,QW00698,FLOW_Myeloid_PBMC,D7,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.288157909,26482
+33494,2 mg Dose,QW00618,FLOW_Myeloid_PBMC,D1,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.775596343,144983
+33494,2 mg Dose,QW00618,FLOW_Myeloid_PBMC,D1,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.067405538,1709
+33494,2 mg Dose,QW00618,FLOW_Myeloid_PBMC,D1,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.591492631,84684
+33494,2 mg Dose,QW00678,FLOW_Myeloid_PBMC,D15,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.560586678,120511
+33494,2 mg Dose,QW00678,FLOW_Myeloid_PBMC,D15,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.016945164,216
+33494,2 mg Dose,QW00678,FLOW_Myeloid_PBMC,D15,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.608713522,72569
+33494,2 mg Dose,QW00704,FLOW_Myeloid_PBMC,D3,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.715618229,146306
+33494,2 mg Dose,QW00704,FLOW_Myeloid_PBMC,D3,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.021960654,528
+33494,2 mg Dose,QW00704,FLOW_Myeloid_PBMC,D3,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.584931601,84663
+33494,2 mg Dose,QW00707,FLOW_Myeloid_PBMC,D5,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.767104908,164656
+33494,2 mg Dose,QW00707,FLOW_Myeloid_PBMC,D5,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.021208428,609
+33494,2 mg Dose,QW00707,FLOW_Myeloid_PBMC,D5,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.553041288,90013
+33494,2 mg Dose,QW00588,FLOW_Myeloid_PBMC,D7,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.41434842,86090
+33494,2 mg Dose,QW00588,FLOW_Myeloid_PBMC,D7,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.010721314,158
+33494,2 mg Dose,QW00588,FLOW_Myeloid_PBMC,D7,2,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.499664741,42476
+33495,1 mg Dose,QW00540,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.48465645,143168
+33495,1 mg Dose,QW00540,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.082876476,1678
+33495,1 mg Dose,QW00540,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.659718209,92476
+33495,1 mg Dose,QW00641,FLOW_Myeloid_PBMC,D15,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.546526959,132641
+33495,1 mg Dose,QW00641,FLOW_Myeloid_PBMC,D15,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.03754747,613
+33495,1 mg Dose,QW00641,FLOW_Myeloid_PBMC,D15,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.639092059,82834
+33495,1 mg Dose,QW00541,FLOW_Myeloid_PBMC,D3,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.597265705,110266
+33495,1 mg Dose,QW00541,FLOW_Myeloid_PBMC,D3,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.070020099,1289
+33495,1 mg Dose,QW00541,FLOW_Myeloid_PBMC,D3,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.611238787,65960
+33495,1 mg Dose,QW00544,FLOW_Myeloid_PBMC,D5,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.636406785,127380
+33495,1 mg Dose,QW00544,FLOW_Myeloid_PBMC,D5,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.090009217,2246
+33495,1 mg Dose,QW00544,FLOW_Myeloid_PBMC,D5,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.540602223,67272
+33495,1 mg Dose,QW00592,FLOW_Myeloid_PBMC,D7,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.609426809,140972
+33495,1 mg Dose,QW00592,FLOW_Myeloid_PBMC,D7,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.053414074,1279
+33495,1 mg Dose,QW00592,FLOW_Myeloid_PBMC,D7,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.570792126,78666
+33496,Placebo,QW00537,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.494640583,172820
+33496,Placebo,QW00537,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.031534801,391
+33496,Placebo,QW00537,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.522720923,87941
+33496,Placebo,QW00566,FLOW_Myeloid_PBMC,ET,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.698231406,139323
+33496,Placebo,QW00566,FLOW_Myeloid_PBMC,ET,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.029750387,615
+33496,Placebo,QW00566,FLOW_Myeloid_PBMC,ET,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.570921307,77498
+33497,1 mg Dose,QW00583,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.456766742,132408
+33497,1 mg Dose,QW00583,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.014889919,257
+33497,1 mg Dose,QW00583,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.638121249,82712
+33497,1 mg Dose,QW00651,FLOW_Myeloid_PBMC,D15,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.551821158,151018
+33497,1 mg Dose,QW00651,FLOW_Myeloid_PBMC,D15,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.004099637,79
+33497,1 mg Dose,QW00651,FLOW_Myeloid_PBMC,D15,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.544376292,80320
+33497,1 mg Dose,QW00593,FLOW_Myeloid_PBMC,D3,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.482391733,96118
+33497,1 mg Dose,QW00593,FLOW_Myeloid_PBMC,D3,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.022760693,356
+33497,1 mg Dose,QW00593,FLOW_Myeloid_PBMC,D3,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.523137188,49279
+33497,1 mg Dose,QW00570,FLOW_Myeloid_PBMC,D5,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.601831862,122938
+33497,1 mg Dose,QW00570,FLOW_Myeloid_PBMC,D5,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.028648568,955
+33497,1 mg Dose,QW00570,FLOW_Myeloid_PBMC,D5,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.435175504,52443
+33497,1 mg Dose,QW00551,FLOW_Myeloid_PBMC,D7,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.59573711,132259
+33497,1 mg Dose,QW00551,FLOW_Myeloid_PBMC,D7,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.023225497,873
+33497,1 mg Dose,QW00551,FLOW_Myeloid_PBMC,D7,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.468618045,60373
+33498,2 mg Dose,QW00744,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.372784876,143552
+33498,2 mg Dose,QW00744,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.040191508,319
+33498,2 mg Dose,QW00744,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.3479756,48774
+33498,2 mg Dose,QW00730,FLOW_Myeloid_PBMC,D15,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.279217714,85191
+33498,2 mg Dose,QW00730,FLOW_Myeloid_PBMC,D15,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.009143807,77
+33498,2 mg Dose,QW00730,FLOW_Myeloid_PBMC,D15,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.46691366,38942
+33498,2 mg Dose,QW00726,FLOW_Myeloid_PBMC,D3,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.322195463,105153
+33498,2 mg Dose,QW00726,FLOW_Myeloid_PBMC,D3,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.050918901,604
+33498,2 mg Dose,QW00726,FLOW_Myeloid_PBMC,D3,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.364179192,37265
+33498,2 mg Dose,QW00683,FLOW_Myeloid_PBMC,D5,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.158306384,41756
+33498,2 mg Dose,QW00683,FLOW_Myeloid_PBMC,D5,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.048959866,233
+33498,2 mg Dose,QW00683,FLOW_Myeloid_PBMC,D5,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.28428738,11214
+33498,2 mg Dose,QW00768,FLOW_Myeloid_PBMC,D7,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.234898421,71166
+33498,2 mg Dose,QW00768,FLOW_Myeloid_PBMC,D7,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.065587192,721
+33498,2 mg Dose,QW00768,FLOW_Myeloid_PBMC,D7,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.258337281,17995
+33499,2 mg Dose,QW00756,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.558221134,109456
+33499,2 mg Dose,QW00756,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.023422743,248
+33499,2 mg Dose,QW00756,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.494367832,53236
+33499,2 mg Dose,QW00731,FLOW_Myeloid_PBMC,D15,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.378929988,88357
+33499,2 mg Dose,QW00731,FLOW_Myeloid_PBMC,D15,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.009635974,81
+33499,2 mg Dose,QW00731,FLOW_Myeloid_PBMC,D15,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.458592501,39887
+33499,2 mg Dose,QW00759,FLOW_Myeloid_PBMC,D3,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.496987816,110545
+33499,2 mg Dose,QW00759,FLOW_Myeloid_PBMC,D3,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.042316734,792
+33499,2 mg Dose,QW00759,FLOW_Myeloid_PBMC,D3,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.367337024,40075
+33499,2 mg Dose,QW00752,FLOW_Myeloid_PBMC,D5,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.28735961,62276
+33499,2 mg Dose,QW00752,FLOW_Myeloid_PBMC,D5,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.033622095,392
+33499,2 mg Dose,QW00752,FLOW_Myeloid_PBMC,D5,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.354451522,21646
+33499,2 mg Dose,QW00742,FLOW_Myeloid_PBMC,D7,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.348393255,51465
+33499,2 mg Dose,QW00742,FLOW_Myeloid_PBMC,D7,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.061793422,962
+33499,2 mg Dose,QW00742,FLOW_Myeloid_PBMC,D7,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.260542584,13234
+33500,1 mg Dose,QW00642,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.741072728,142532
+33500,1 mg Dose,QW00642,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.025680534,800
+33500,1 mg Dose,QW00642,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.415034659,58258
+33500,1 mg Dose,QW00671,FLOW_Myeloid_PBMC,D15,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.629878976,119289
+33500,1 mg Dose,QW00671,FLOW_Myeloid_PBMC,D15,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.007121177,122
+33500,1 mg Dose,QW00671,FLOW_Myeloid_PBMC,D15,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.481951512,56357
+33500,1 mg Dose,QW00688,FLOW_Myeloid_PBMC,D3,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.692300283,107805
+33500,1 mg Dose,QW00688,FLOW_Myeloid_PBMC,D3,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.061454001,1847
+33500,1 mg Dose,QW00688,FLOW_Myeloid_PBMC,D3,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.399756183,42301
+33500,1 mg Dose,QW00708,FLOW_Myeloid_PBMC,D5,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.640416772,141860
+33500,1 mg Dose,QW00708,FLOW_Myeloid_PBMC,D5,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.034624687,1632
+33500,1 mg Dose,QW00708,FLOW_Myeloid_PBMC,D5,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.332163785,46199
+33500,1 mg Dose,QW00553,FLOW_Myeloid_PBMC,D7,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.56867696,136934
+33500,1 mg Dose,QW00553,FLOW_Myeloid_PBMC,D7,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.017699406,539
+33500,1 mg Dose,QW00553,FLOW_Myeloid_PBMC,D7,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.333549049,44841
+33501,1 mg Dose,QW00644,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.363071238,126156
+33501,1 mg Dose,QW00644,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.069980031,1577
+33501,1 mg Dose,QW00644,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.217144696,26990
+33501,1 mg Dose,QW00702,FLOW_Myeloid_PBMC,D15,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.333920897,79564
+33501,1 mg Dose,QW00702,FLOW_Myeloid_PBMC,D15,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.014205047,161
+33501,1 mg Dose,QW00702,FLOW_Myeloid_PBMC,D15,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.303283807,23311
+33501,1 mg Dose,QW00638,FLOW_Myeloid_PBMC,D3,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.427801566,151464
+33501,1 mg Dose,QW00638,FLOW_Myeloid_PBMC,D3,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.067237995,1781
+33501,1 mg Dose,QW00638,FLOW_Myeloid_PBMC,D3,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.223512229,33055
+33501,1 mg Dose,QW00615,FLOW_Myeloid_PBMC,D5,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.346291234,244492
+33501,1 mg Dose,QW00615,FLOW_Myeloid_PBMC,D5,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.106710445,1560
+33501,1 mg Dose,QW00615,FLOW_Myeloid_PBMC,D5,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.050566094,12233
+33501,1 mg Dose,QW00652,FLOW_Myeloid_PBMC,D7,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.396398248,119610
+33501,1 mg Dose,QW00652,FLOW_Myeloid_PBMC,D7,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.061649485,1196
+33501,1 mg Dose,QW00652,FLOW_Myeloid_PBMC,D7,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.237022535,27241
+33502,1 mg Dose,QW00568,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.247422069,8350
+33502,1 mg Dose,QW00568,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.00952381,4
+33502,1 mg Dose,QW00568,FLOW_Myeloid_PBMC,D1,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.41371599,3330
+33502,1 mg Dose,QW00605,FLOW_Myeloid_PBMC,D15,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.187622858,8113
+33502,1 mg Dose,QW00605,FLOW_Myeloid_PBMC,D15,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.002120891,2
+33502,1 mg Dose,QW00605,FLOW_Myeloid_PBMC,D15,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.295995945,2336
+33502,1 mg Dose,QW00585,FLOW_Myeloid_PBMC,D3,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.230230586,8417
+33502,1 mg Dose,QW00585,FLOW_Myeloid_PBMC,D3,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.022810219,25
+33502,1 mg Dose,QW00585,FLOW_Myeloid_PBMC,D3,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.326116044,2681
+33502,1 mg Dose,QW00601,FLOW_Myeloid_PBMC,D5,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.244684313,9022
+33502,1 mg Dose,QW00601,FLOW_Myeloid_PBMC,D5,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.019203414,27
+33502,1 mg Dose,QW00601,FLOW_Myeloid_PBMC,D5,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.202952868,1787
+33502,1 mg Dose,QW00538,FLOW_Myeloid_PBMC,D7,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.222430143,8796
+33502,1 mg Dose,QW00538,FLOW_Myeloid_PBMC,D7,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.018455229,27
+33502,1 mg Dose,QW00538,FLOW_Myeloid_PBMC,D7,3,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.194206638,1656
+33503,2 mg Dose,QW00645,FLOW_Myeloid_PBMC,D1,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.480319983,155872
+33503,2 mg Dose,QW00645,FLOW_Myeloid_PBMC,D1,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.091491473,2028
+33503,2 mg Dose,QW00645,FLOW_Myeloid_PBMC,D1,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.618773996,95410
+33503,2 mg Dose,QW00693,FLOW_Myeloid_PBMC,D15,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.39714849,126296
+33503,2 mg Dose,QW00693,FLOW_Myeloid_PBMC,D15,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.083444667,1499
+33503,2 mg Dose,QW00693,FLOW_Myeloid_PBMC,D15,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.610124606,75797
+33503,2 mg Dose,QW00625,FLOW_Myeloid_PBMC,D3,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.324878959,90855
+33503,2 mg Dose,QW00625,FLOW_Myeloid_PBMC,D3,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.125045363,2412
+33503,2 mg Dose,QW00625,FLOW_Myeloid_PBMC,D3,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.50281548,44826
+33503,2 mg Dose,QW00555,FLOW_Myeloid_PBMC,D5,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.251309434,81423
+33503,2 mg Dose,QW00555,FLOW_Myeloid_PBMC,D5,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.142407508,4977
+33503,2 mg Dose,QW00555,FLOW_Myeloid_PBMC,D5,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.161394407,12755
+33503,2 mg Dose,QW00624,FLOW_Myeloid_PBMC,D7,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.299114666,71355
+33503,2 mg Dose,QW00624,FLOW_Myeloid_PBMC,D7,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.10614909,1854
+33503,2 mg Dose,QW00624,FLOW_Myeloid_PBMC,D7,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.486583082,34036
+33504,1 mg Dose,QW00637,FLOW_Myeloid_PBMC,D1,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.625498113,190715
+33504,1 mg Dose,QW00637,FLOW_Myeloid_PBMC,D1,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.098651354,4879
+33504,1 mg Dose,QW00637,FLOW_Myeloid_PBMC,D1,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.328762234,61709
+33504,1 mg Dose,QW00706,FLOW_Myeloid_PBMC,D15,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.399476143,141685
+33504,1 mg Dose,QW00706,FLOW_Myeloid_PBMC,D15,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.036757149,608
+33504,1 mg Dose,QW00706,FLOW_Myeloid_PBMC,D15,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.472961916,65894
+33504,1 mg Dose,QW00620,FLOW_Myeloid_PBMC,D3,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.473352364,144594
+33504,1 mg Dose,QW00620,FLOW_Myeloid_PBMC,D3,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.064066124,1961
+33504,1 mg Dose,QW00620,FLOW_Myeloid_PBMC,D3,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.373567094,52630
+33504,1 mg Dose,QW00609,FLOW_Myeloid_PBMC,D5,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.329216845,139610
+33504,1 mg Dose,QW00609,FLOW_Myeloid_PBMC,D5,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.126840107,1370
+33504,1 mg Dose,QW00609,FLOW_Myeloid_PBMC,D5,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.143905957,19856
+33504,1 mg Dose,QW00640,FLOW_Myeloid_PBMC,D7,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.316780939,97164
+33504,1 mg Dose,QW00640,FLOW_Myeloid_PBMC,D7,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.039763113,517
+33504,1 mg Dose,QW00640,FLOW_Myeloid_PBMC,D7,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.422971531,40442
+33505,1 mg Dose,QW00616,FLOW_Myeloid_PBMC,D1,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.769503923,180945
+33505,1 mg Dose,QW00616,FLOW_Myeloid_PBMC,D1,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.064122777,2603
+33505,1 mg Dose,QW00616,FLOW_Myeloid_PBMC,D1,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.494968852,88592
+33505,1 mg Dose,QW00700,FLOW_Myeloid_PBMC,D15,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.581716998,174251
+33505,1 mg Dose,QW00700,FLOW_Myeloid_PBMC,D15,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.06517189,2273
+33505,1 mg Dose,QW00700,FLOW_Myeloid_PBMC,D15,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.536217257,91913
+33505,1 mg Dose,QW00650,FLOW_Myeloid_PBMC,D3,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.615918803,137207
+33505,1 mg Dose,QW00650,FLOW_Myeloid_PBMC,D3,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.058930858,1841
+33505,1 mg Dose,QW00650,FLOW_Myeloid_PBMC,D3,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.474861909,64047
+33505,1 mg Dose,QW00574,FLOW_Myeloid_PBMC,D5,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.561576903,136311
+33505,1 mg Dose,QW00574,FLOW_Myeloid_PBMC,D5,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.135508977,7661
+33505,1 mg Dose,QW00574,FLOW_Myeloid_PBMC,D5,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.100981778,13361
+33505,1 mg Dose,QW00635,FLOW_Myeloid_PBMC,D7,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.522950239,125427
+33505,1 mg Dose,QW00635,FLOW_Myeloid_PBMC,D7,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.08140638,2746
+33505,1 mg Dose,QW00635,FLOW_Myeloid_PBMC,D7,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.411028892,50603
+33506,2 mg Dose,QW00733,FLOW_Myeloid_PBMC,D1,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.712405848,144711
+33506,2 mg Dose,QW00733,FLOW_Myeloid_PBMC,D1,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.053650571,1150
+33506,2 mg Dose,QW00733,FLOW_Myeloid_PBMC,D1,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.512940113,73789
+33506,2 mg Dose,QW00770,FLOW_Myeloid_PBMC,D15,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.436966991,239180
+33506,2 mg Dose,QW00770,FLOW_Myeloid_PBMC,D15,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.137312023,3488
+33506,2 mg Dose,QW00770,FLOW_Myeloid_PBMC,D15,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.275087233,65435
+33506,2 mg Dose,QW00757,FLOW_Myeloid_PBMC,D3,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.567729526,97109
+33506,2 mg Dose,QW00757,FLOW_Myeloid_PBMC,D3,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.080587515,1646
+33506,2 mg Dose,QW00757,FLOW_Myeloid_PBMC,D3,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.450216899,43382
+33506,2 mg Dose,QW00694,FLOW_Myeloid_PBMC,D5,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.441481964,128873
+33506,2 mg Dose,QW00694,FLOW_Myeloid_PBMC,D5,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.070474777,1710
+33506,2 mg Dose,QW00694,FLOW_Myeloid_PBMC,D5,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.425181026,54373
+33506,2 mg Dose,QW00749,FLOW_Myeloid_PBMC,D7,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.407730108,96166
+33506,2 mg Dose,QW00749,FLOW_Myeloid_PBMC,D7,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.125120059,3387
+33506,2 mg Dose,QW00749,FLOW_Myeloid_PBMC,D7,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.277892453,26387
+33507,Placebo,QW00643,FLOW_Myeloid_PBMC,D1,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.736415076,240251
+33507,Placebo,QW00643,FLOW_Myeloid_PBMC,D1,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.054046056,2009
+33507,Placebo,QW00643,FLOW_Myeloid_PBMC,D1,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.4797819,113775
+33507,Placebo,QW00713,FLOW_Myeloid_PBMC,D15,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.497325226,168733
+33507,Placebo,QW00713,FLOW_Myeloid_PBMC,D15,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.038042887,699
+33507,Placebo,QW00713,FLOW_Myeloid_PBMC,D15,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.542385678,89799
+33507,Placebo,QW00610,FLOW_Myeloid_PBMC,D3,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.627910448,168280
+33507,Placebo,QW00610,FLOW_Myeloid_PBMC,D3,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.061617072,1230
+33507,Placebo,QW00610,FLOW_Myeloid_PBMC,D3,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.536875801,89225
+33507,Placebo,QW00629,FLOW_Myeloid_PBMC,D5,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.513814184,113295
+33507,Placebo,QW00629,FLOW_Myeloid_PBMC,D5,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.081927371,2326
+33507,Placebo,QW00629,FLOW_Myeloid_PBMC,D5,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.198436908,21988
+33507,Placebo,QW00633,FLOW_Myeloid_PBMC,D7,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.707368363,205192
+33507,Placebo,QW00633,FLOW_Myeloid_PBMC,D7,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.072465064,2432
+33507,Placebo,QW00633,FLOW_Myeloid_PBMC,D7,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.524386326,106108
+33508,Placebo,QW00539,FLOW_Myeloid_PBMC,D1,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.267642567,58178
+33508,Placebo,QW00539,FLOW_Myeloid_PBMC,D1,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.151086957,139
+33508,Placebo,QW00539,FLOW_Myeloid_PBMC,D1,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.092369478,5336
+33508,Placebo,QW00660,FLOW_Myeloid_PBMC,D15,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.276138445,95125
+33508,Placebo,QW00660,FLOW_Myeloid_PBMC,D15,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.118852459,493
+33508,Placebo,QW00660,FLOW_Myeloid_PBMC,D15,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.199347199,18872
+33508,Placebo,QW00576,FLOW_Myeloid_PBMC,D3,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.298806477,98991
+33508,Placebo,QW00576,FLOW_Myeloid_PBMC,D3,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.168107174,389
+33508,Placebo,QW00576,FLOW_Myeloid_PBMC,D3,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.129207956,12739
+33508,Placebo,QW00549,FLOW_Myeloid_PBMC,D5,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.217624086,56337
+33508,Placebo,QW00549,FLOW_Myeloid_PBMC,D5,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.257546251,529
+33508,Placebo,QW00549,FLOW_Myeloid_PBMC,D5,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.11433319,6399
+33508,Placebo,QW00563,FLOW_Myeloid_PBMC,D7,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.283953841,106571
+33508,Placebo,QW00563,FLOW_Myeloid_PBMC,D7,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.143336127,1368
+33508,Placebo,QW00563,FLOW_Myeloid_PBMC,D7,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.259383397,27318
+33509,2 mg Dose,QW00591,FLOW_Myeloid_PBMC,D1,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.425378954,216560
+33509,2 mg Dose,QW00591,FLOW_Myeloid_PBMC,D1,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.113748408,3484
+33509,2 mg Dose,QW00591,FLOW_Myeloid_PBMC,D1,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.278409567,59833
+33509,2 mg Dose,QW00672,FLOW_Myeloid_PBMC,D15,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.426274475,149500
+33509,2 mg Dose,QW00672,FLOW_Myeloid_PBMC,D15,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.041807082,856
+33509,2 mg Dose,QW00672,FLOW_Myeloid_PBMC,D15,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.362635878,53677
+33509,2 mg Dose,QW00723,FLOW_Myeloid_PBMC,D3,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.365810196,131793
+33509,2 mg Dose,QW00723,FLOW_Myeloid_PBMC,D3,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.1109037,3030
+33509,2 mg Dose,QW00723,FLOW_Myeloid_PBMC,D3,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.222882866,29014
+33509,2 mg Dose,QW00682,FLOW_Myeloid_PBMC,D5,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.341294366,129112
+33509,2 mg Dose,QW00682,FLOW_Myeloid_PBMC,D5,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.164656616,4915
+33509,2 mg Dose,QW00682,FLOW_Myeloid_PBMC,D5,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.186227855,23715
+33509,2 mg Dose,QW00717,FLOW_Myeloid_PBMC,D7,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.150949553,38860
+33509,2 mg Dose,QW00717,FLOW_Myeloid_PBMC,D7,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.078574975,633
+33509,2 mg Dose,QW00717,FLOW_Myeloid_PBMC,D7,4,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.168626326,6468
+33510,Placebo,QW00659,FLOW_Myeloid_PBMC,D1,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.454626299,135986
+33510,Placebo,QW00659,FLOW_Myeloid_PBMC,D1,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.049988535,1090
+33510,Placebo,QW00659,FLOW_Myeloid_PBMC,D1,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.476665156,64172
+33510,Placebo,QW00697,FLOW_Myeloid_PBMC,D15,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.468059832,130423
+33510,Placebo,QW00697,FLOW_Myeloid_PBMC,D15,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.008250476,156
+33510,Placebo,QW00697,FLOW_Myeloid_PBMC,D15,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.541111301,69746
+33510,Placebo,QW00632,FLOW_Myeloid_PBMC,D3,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.47560775,153208
+33510,Placebo,QW00632,FLOW_Myeloid_PBMC,D3,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.03274367,944
+33510,Placebo,QW00632,FLOW_Myeloid_PBMC,D3,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.455648914,69034
+33510,Placebo,QW00573,FLOW_Myeloid_PBMC,D5,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.455036799,154323
+33510,Placebo,QW00573,FLOW_Myeloid_PBMC,D5,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.031568632,1353
+33510,Placebo,QW00573,FLOW_Myeloid_PBMC,D5,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.214234786,32451
+33510,Placebo,QW00621,FLOW_Myeloid_PBMC,D7,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.497072356,157731
+33510,Placebo,QW00621,FLOW_Myeloid_PBMC,D7,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.023742741,601
+33510,Placebo,QW00621,FLOW_Myeloid_PBMC,D7,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.445521153,69745
+33511,1 mg Dose,QW00589,FLOW_Myeloid_PBMC,D1,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.517061105,180202
+33511,1 mg Dose,QW00589,FLOW_Myeloid_PBMC,D1,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.120223799,2643
+33511,1 mg Dose,QW00589,FLOW_Myeloid_PBMC,D1,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.527021584,94203
+33511,1 mg Dose,QW00546,FLOW_Myeloid_PBMC,D15,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.55781409,157848
+33511,1 mg Dose,QW00546,FLOW_Myeloid_PBMC,D15,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.032357202,737
+33511,1 mg Dose,QW00546,FLOW_Myeloid_PBMC,D15,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.424973526,66618
+33511,1 mg Dose,QW00581,FLOW_Myeloid_PBMC,D3,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.500012325,141989
+33511,1 mg Dose,QW00581,FLOW_Myeloid_PBMC,D3,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.088146561,2016
+33511,1 mg Dose,QW00581,FLOW_Myeloid_PBMC,D3,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.391594363,55243
+33511,1 mg Dose,QW00595,FLOW_Myeloid_PBMC,D5,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.553766514,156933
+33511,1 mg Dose,QW00595,FLOW_Myeloid_PBMC,D5,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.066196732,2066
+33511,1 mg Dose,QW00595,FLOW_Myeloid_PBMC,D5,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.299053306,46373
+33511,1 mg Dose,QW00550,FLOW_Myeloid_PBMC,D7,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.497065419,134320
+33511,1 mg Dose,QW00550,FLOW_Myeloid_PBMC,D7,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.045657468,1125
+33511,1 mg Dose,QW00550,FLOW_Myeloid_PBMC,D7,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.288153955,38302
+33512,1 mg Dose,QW00564,FLOW_Myeloid_PBMC,D1,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.351558862,160031
+33512,1 mg Dose,QW00564,FLOW_Myeloid_PBMC,D1,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.101383972,945
+33512,1 mg Dose,QW00564,FLOW_Myeloid_PBMC,D1,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.41989159,66696
+33512,1 mg Dose,QW00607,FLOW_Myeloid_PBMC,D15,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.524792206,194467
+33512,1 mg Dose,QW00607,FLOW_Myeloid_PBMC,D15,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.011650024,196
+33512,1 mg Dose,QW00607,FLOW_Myeloid_PBMC,D15,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.429435108,82893
+33512,1 mg Dose,QW00587,FLOW_Myeloid_PBMC,D3,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.49791916,181380
+33512,1 mg Dose,QW00587,FLOW_Myeloid_PBMC,D3,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.057976185,1300
+33512,1 mg Dose,QW00587,FLOW_Myeloid_PBMC,D3,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.448205026,80728
+33512,1 mg Dose,QW00577,FLOW_Myeloid_PBMC,D5,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.549943415,172509
+33512,1 mg Dose,QW00577,FLOW_Myeloid_PBMC,D5,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.013419483,351
+33512,1 mg Dose,QW00577,FLOW_Myeloid_PBMC,D5,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.455056213,77674
+33512,1 mg Dose,QW00561,FLOW_Myeloid_PBMC,D7,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.543410813,170944
+33512,1 mg Dose,QW00561,FLOW_Myeloid_PBMC,D7,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.008387493,191
+33512,1 mg Dose,QW00561,FLOW_Myeloid_PBMC,D7,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.476313706,80618
+33513,2 mg Dose,QW00654,FLOW_Myeloid_PBMC,D1,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.541883664,209140
+33513,2 mg Dose,QW00654,FLOW_Myeloid_PBMC,D1,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.082548434,2156
+33513,2 mg Dose,QW00654,FLOW_Myeloid_PBMC,D1,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.337710916,70151
+33513,2 mg Dose,QW00669,FLOW_Myeloid_PBMC,D15,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.578763417,186624
+33513,2 mg Dose,QW00669,FLOW_Myeloid_PBMC,D15,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.01928934,456
+33513,2 mg Dose,QW00669,FLOW_Myeloid_PBMC,D15,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.487797613,90065
+33513,2 mg Dose,QW00696,FLOW_Myeloid_PBMC,D3,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.644002985,195026
+33513,2 mg Dose,QW00696,FLOW_Myeloid_PBMC,D3,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.118307327,5133
+33513,2 mg Dose,QW00696,FLOW_Myeloid_PBMC,D3,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.277976807,53694
+33513,2 mg Dose,QW00703,FLOW_Myeloid_PBMC,D5,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.578633316,184926
+33513,2 mg Dose,QW00703,FLOW_Myeloid_PBMC,D5,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.048443665,2431
+33513,2 mg Dose,QW00703,FLOW_Myeloid_PBMC,D5,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.237945689,43111
+33513,2 mg Dose,QW00680,FLOW_Myeloid_PBMC,D7,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.498083903,157138
+33513,2 mg Dose,QW00680,FLOW_Myeloid_PBMC,D7,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.034301921,1282
+33513,2 mg Dose,QW00680,FLOW_Myeloid_PBMC,D7,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.234602915,36397
+33514,2 mg Dose,QW00729,FLOW_Myeloid_PBMC,D1,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.523316371,122792
+33514,2 mg Dose,QW00729,FLOW_Myeloid_PBMC,D1,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.07213444,1365
+33514,2 mg Dose,QW00729,FLOW_Myeloid_PBMC,D1,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.5588528,67947
+33514,2 mg Dose,QW00747,FLOW_Myeloid_PBMC,D15,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.368491418,97295
+33514,2 mg Dose,QW00747,FLOW_Myeloid_PBMC,D15,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.093333333,980
+33514,2 mg Dose,QW00747,FLOW_Myeloid_PBMC,D15,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.454874783,43320
+33514,2 mg Dose,QW00728,FLOW_Myeloid_PBMC,D3,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.415320429,86407
+33514,2 mg Dose,QW00728,FLOW_Myeloid_PBMC,D3,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.184534977,2754
+33514,2 mg Dose,QW00728,FLOW_Myeloid_PBMC,D3,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.498840315,42585
+33514,2 mg Dose,QW00751,FLOW_Myeloid_PBMC,D5,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.308004741,73027
+33514,2 mg Dose,QW00751,FLOW_Myeloid_PBMC,D5,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.085673843,1150
+33514,2 mg Dose,QW00751,FLOW_Myeloid_PBMC,D5,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.44174525,31386
+33514,2 mg Dose,QW00739,FLOW_Myeloid_PBMC,D7,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.310123443,65018
+33514,2 mg Dose,QW00739,FLOW_Myeloid_PBMC,D7,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.132829996,2076
+33514,2 mg Dose,QW00739,FLOW_Myeloid_PBMC,D7,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.422279509,27028
+33515,1 mg Dose,QW00565,FLOW_Myeloid_PBMC,D1,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.437430691,152260
+33515,1 mg Dose,QW00565,FLOW_Myeloid_PBMC,D1,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.098987731,2122
+33515,1 mg Dose,QW00565,FLOW_Myeloid_PBMC,D1,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.458306615,68614
+33515,1 mg Dose,QW00622,FLOW_Myeloid_PBMC,D15,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.449511213,101345
+33515,1 mg Dose,QW00622,FLOW_Myeloid_PBMC,D15,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.004765284,47
+33515,1 mg Dose,QW00622,FLOW_Myeloid_PBMC,D15,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.493891868,49283
+33515,1 mg Dose,QW00596,FLOW_Myeloid_PBMC,D3,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.47475374,117117
+33515,1 mg Dose,QW00596,FLOW_Myeloid_PBMC,D3,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.061939219,1070
+33515,1 mg Dose,QW00596,FLOW_Myeloid_PBMC,D3,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.427020809,49373
+33515,1 mg Dose,QW00545,FLOW_Myeloid_PBMC,D5,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.48316381,115050
+33515,1 mg Dose,QW00545,FLOW_Myeloid_PBMC,D5,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.028288131,388
+33515,1 mg Dose,QW00545,FLOW_Myeloid_PBMC,D5,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.432942754,49068
+33515,1 mg Dose,QW00584,FLOW_Myeloid_PBMC,D7,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.363204729,82081
+33515,1 mg Dose,QW00584,FLOW_Myeloid_PBMC,D7,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.022847316,186
+33515,1 mg Dose,QW00584,FLOW_Myeloid_PBMC,D7,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.454373189,36687
+33516,2 mg Dose,QW00725,FLOW_Myeloid_PBMC,D1,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.453727555,108680
+33516,2 mg Dose,QW00725,FLOW_Myeloid_PBMC,D1,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.028207965,459
+33516,2 mg Dose,QW00725,FLOW_Myeloid_PBMC,D1,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.481411116,51692
+33516,2 mg Dose,QW00736,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.082545203,80882
+33516,2 mg Dose,QW00736,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.12257361,1124
+33516,2 mg Dose,QW00736,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.463408292,37423
+33516,2 mg Dose,QW00765,FLOW_Myeloid_PBMC,D3,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.44224683,119894
+33516,2 mg Dose,QW00765,FLOW_Myeloid_PBMC,D3,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.064057382,1545
+33516,2 mg Dose,QW00765,FLOW_Myeloid_PBMC,D3,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.403900521,47861
+33516,2 mg Dose,QW00745,FLOW_Myeloid_PBMC,D5,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.328043495,78861
+33516,2 mg Dose,QW00745,FLOW_Myeloid_PBMC,D5,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.051989529,993
+33516,2 mg Dose,QW00745,FLOW_Myeloid_PBMC,D5,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.367926853,28369
+33516,2 mg Dose,QW00748,FLOW_Myeloid_PBMC,D7,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.223188011,47554
+33516,2 mg Dose,QW00748,FLOW_Myeloid_PBMC,D7,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.04289671,635
+33516,2 mg Dose,QW00748,FLOW_Myeloid_PBMC,D7,5,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.225958449,10550
+33517,2 mg Dose,QW00647,FLOW_Myeloid_PBMC,D1,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.622146949,155752
+33517,2 mg Dose,QW00647,FLOW_Myeloid_PBMC,D1,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0,0
+33517,2 mg Dose,QW00647,FLOW_Myeloid_PBMC,D1,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.570866521,88800
+33517,2 mg Dose,QW00716,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.404998564,143832
+33517,2 mg Dose,QW00716,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,6.63E-05,1
+33517,2 mg Dose,QW00716,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.524971287,75420
+33517,2 mg Dose,QW00614,FLOW_Myeloid_PBMC,D3,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.368746504,121294
+33517,2 mg Dose,QW00614,FLOW_Myeloid_PBMC,D3,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0,0
+33517,2 mg Dose,QW00614,FLOW_Myeloid_PBMC,D3,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.331908326,40217
+33517,2 mg Dose,QW00612,FLOW_Myeloid_PBMC,D5,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.322677227,100876
+33517,2 mg Dose,QW00612,FLOW_Myeloid_PBMC,D5,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,3.09E-04,7
+33517,2 mg Dose,QW00612,FLOW_Myeloid_PBMC,D5,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.127710843,12879
+33517,2 mg Dose,QW00600,FLOW_Myeloid_PBMC,D7,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.142670404,85351
+33517,2 mg Dose,QW00600,FLOW_Myeloid_PBMC,D7,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.087984082,1813
+33517,2 mg Dose,QW00600,FLOW_Myeloid_PBMC,D7,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.30089534,25642
+33518,Placebo,QW00630,FLOW_Myeloid_PBMC,D1,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.730075318,126982
+33518,Placebo,QW00630,FLOW_Myeloid_PBMC,D1,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.07425451,1387
+33518,Placebo,QW00630,FLOW_Myeloid_PBMC,D1,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.451412252,55953
+33518,Placebo,QW00692,FLOW_Myeloid_PBMC,D15,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.781232822,237344
+33518,Placebo,QW00692,FLOW_Myeloid_PBMC,D15,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.043170869,1380
+33518,Placebo,QW00692,FLOW_Myeloid_PBMC,D15,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.468356824,108959
+33518,Placebo,QW00590,FLOW_Myeloid_PBMC,D3,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.712923929,161843
+33518,Placebo,QW00590,FLOW_Myeloid_PBMC,D3,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.065088757,1045
+33518,Placebo,QW00590,FLOW_Myeloid_PBMC,D3,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.517735701,81839
+33518,Placebo,QW00663,FLOW_Myeloid_PBMC,D5,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.505594973,199528
+33518,Placebo,QW00663,FLOW_Myeloid_PBMC,D5,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.084208977,2861
+33518,Placebo,QW00663,FLOW_Myeloid_PBMC,D5,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.101824448,20092
+33518,Placebo,QW00623,FLOW_Myeloid_PBMC,D7,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.704176025,103147
+33518,Placebo,QW00623,FLOW_Myeloid_PBMC,D7,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.042908455,442
+33518,Placebo,QW00623,FLOW_Myeloid_PBMC,D7,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.530242813,53633
+33519,2 mg Dose,QW00761,FLOW_Myeloid_PBMC,D1,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.832762827,298020
+33519,2 mg Dose,QW00761,FLOW_Myeloid_PBMC,D1,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.011705157,407
+33519,2 mg Dose,QW00761,FLOW_Myeloid_PBMC,D1,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.468983054,137216
+33519,2 mg Dose,QW00771,FLOW_Myeloid_PBMC,D15,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.569101691,254500
+33519,2 mg Dose,QW00771,FLOW_Myeloid_PBMC,D15,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.011236386,293
+33519,2 mg Dose,QW00771,FLOW_Myeloid_PBMC,D15,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.368419372,92299
+33519,2 mg Dose,QW00750,FLOW_Myeloid_PBMC,D3,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.800780944,132892
+33519,2 mg Dose,QW00750,FLOW_Myeloid_PBMC,D3,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.032433125,759
+33519,2 mg Dose,QW00750,FLOW_Myeloid_PBMC,D3,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.421872124,55002
+33519,2 mg Dose,QW00760,FLOW_Myeloid_PBMC,D5,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.745628821,207466
+33519,2 mg Dose,QW00760,FLOW_Myeloid_PBMC,D5,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.012237591,499
+33519,2 mg Dose,QW00760,FLOW_Myeloid_PBMC,D5,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.441041219,89579
+33519,2 mg Dose,QW00767,FLOW_Myeloid_PBMC,D7,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.766789435,206113
+33519,2 mg Dose,QW00767,FLOW_Myeloid_PBMC,D7,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.035160414,1748
+33519,2 mg Dose,QW00767,FLOW_Myeloid_PBMC,D7,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.36864965,74437
+33520,1 mg Dose,QW00655,FLOW_Myeloid_PBMC,D1,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.689379544,175596
+33520,1 mg Dose,QW00655,FLOW_Myeloid_PBMC,D1,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.00155309,49
+33520,1 mg Dose,QW00655,FLOW_Myeloid_PBMC,D1,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.428755429,74233
+33520,1 mg Dose,QW00722,FLOW_Myeloid_PBMC,D15,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.644109984,94194
+33520,1 mg Dose,QW00722,FLOW_Myeloid_PBMC,D15,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.001821991,20
+33520,1 mg Dose,QW00722,FLOW_Myeloid_PBMC,D15,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.485700112,45038
+33520,1 mg Dose,QW00687,FLOW_Myeloid_PBMC,D3,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.678616184,172207
+33520,1 mg Dose,QW00687,FLOW_Myeloid_PBMC,D3,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.00133555,49
+33520,1 mg Dose,QW00687,FLOW_Myeloid_PBMC,D3,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.422811114,71702
+33520,1 mg Dose,QW00701,FLOW_Myeloid_PBMC,D5,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.647190844,156294
+33520,1 mg Dose,QW00701,FLOW_Myeloid_PBMC,D5,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.002996373,95
+33520,1 mg Dose,QW00701,FLOW_Myeloid_PBMC,D5,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.393229336,60297
+33520,1 mg Dose,QW00608,FLOW_Myeloid_PBMC,D7,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.503005039,134663
+33520,1 mg Dose,QW00608,FLOW_Myeloid_PBMC,D7,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,8.19E-04,30
+33520,1 mg Dose,QW00608,FLOW_Myeloid_PBMC,D7,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.299904828,39705
+33521,1 mg Dose,QW00634,FLOW_Myeloid_PBMC,D1,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.695655457,202666
+33521,1 mg Dose,QW00634,FLOW_Myeloid_PBMC,D1,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.067224786,1879
+33521,1 mg Dose,QW00634,FLOW_Myeloid_PBMC,D1,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.523492198,103931
+33521,1 mg Dose,QW00666,FLOW_Myeloid_PBMC,D3,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.695412453,182632
+33521,1 mg Dose,QW00666,FLOW_Myeloid_PBMC,D3,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.057405085,2014
+33521,1 mg Dose,QW00666,FLOW_Myeloid_PBMC,D3,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.455657629,81642
+33521,1 mg Dose,QW00721,FLOW_Myeloid_PBMC,D5,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.779649503,220350
+33521,1 mg Dose,QW00721,FLOW_Myeloid_PBMC,D5,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.068462574,4018
+33521,1 mg Dose,QW00721,FLOW_Myeloid_PBMC,D5,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.420545583,90710
+33521,1 mg Dose,QW00554,FLOW_Myeloid_PBMC,D7,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.640449708,160302
+33521,1 mg Dose,QW00554,FLOW_Myeloid_PBMC,D7,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.033701135,1069
+33521,1 mg Dose,QW00554,FLOW_Myeloid_PBMC,D7,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.433910294,68212
+33521,1 mg Dose,QW00536,FLOW_Myeloid_PBMC,ET,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.805165594,94863
+33521,1 mg Dose,QW00536,FLOW_Myeloid_PBMC,ET,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.04993657,866
+33521,1 mg Dose,QW00536,FLOW_Myeloid_PBMC,ET,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.521457674,48251
+33522,2 mg Dose,QW00628,FLOW_Myeloid_PBMC,D1,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.673254567,155678
+33522,2 mg Dose,QW00628,FLOW_Myeloid_PBMC,D1,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.001888071,39
+33522,2 mg Dose,QW00628,FLOW_Myeloid_PBMC,D1,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.454967161,69342
+33522,2 mg Dose,QW00719,FLOW_Myeloid_PBMC,D15,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.579195329,104744
+33522,2 mg Dose,QW00719,FLOW_Myeloid_PBMC,D15,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.002031832,30
+33522,2 mg Dose,QW00719,FLOW_Myeloid_PBMC,D15,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.482265604,49112
+33522,2 mg Dose,QW00613,FLOW_Myeloid_PBMC,D3,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.562598266,137764
+33522,2 mg Dose,QW00613,FLOW_Myeloid_PBMC,D3,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.00172199,47
+33522,2 mg Dose,QW00613,FLOW_Myeloid_PBMC,D3,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.347634812,46938
+33522,2 mg Dose,QW00626,FLOW_Myeloid_PBMC,D5,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.427431126,111274
+33522,2 mg Dose,QW00626,FLOW_Myeloid_PBMC,D5,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.014922632,650
+33522,2 mg Dose,QW00626,FLOW_Myeloid_PBMC,D5,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.189095665,20820
+33522,2 mg Dose,QW00627,FLOW_Myeloid_PBMC,D7,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.577650675,117255
+33522,2 mg Dose,QW00627,FLOW_Myeloid_PBMC,D7,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.003964406,139
+33522,2 mg Dose,QW00627,FLOW_Myeloid_PBMC,D7,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.274159407,31343
+33523,1 mg Dose,QW00586,FLOW_Myeloid_PBMC,D1,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.486820944,141661
+33523,1 mg Dose,QW00586,FLOW_Myeloid_PBMC,D1,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,1.87E-04,3
+33523,1 mg Dose,QW00586,FLOW_Myeloid_PBMC,D1,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.541023194,74830
+33523,1 mg Dose,QW00662,FLOW_Myeloid_PBMC,D15,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.643655821,104652
+33523,1 mg Dose,QW00662,FLOW_Myeloid_PBMC,D15,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,4.73E-04,6
+33523,1 mg Dose,QW00662,FLOW_Myeloid_PBMC,D15,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.529418674,54087
+33523,1 mg Dose,QW00597,FLOW_Myeloid_PBMC,D3,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.52437099,124213
+33523,1 mg Dose,QW00597,FLOW_Myeloid_PBMC,D3,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,1.94E-04,4
+33523,1 mg Dose,QW00597,FLOW_Myeloid_PBMC,D3,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.479351506,58188
+33523,1 mg Dose,QW00572,FLOW_Myeloid_PBMC,D5,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.636527878,114153
+33523,1 mg Dose,QW00572,FLOW_Myeloid_PBMC,D5,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,3.17E-04,10
+33523,1 mg Dose,QW00572,FLOW_Myeloid_PBMC,D5,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.381919743,42733
+33523,1 mg Dose,QW00547,FLOW_Myeloid_PBMC,D7,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.579308275,115824
+33523,1 mg Dose,QW00547,FLOW_Myeloid_PBMC,D7,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,5.05E-04,14
+33523,1 mg Dose,QW00547,FLOW_Myeloid_PBMC,D7,6,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.413542027,46686
+33524,2 mg Dose,QW00673,FLOW_Myeloid_PBMC,D1,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.718283866,155683
+33524,2 mg Dose,QW00673,FLOW_Myeloid_PBMC,D1,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.035690652,809
+33524,2 mg Dose,QW00673,FLOW_Myeloid_PBMC,D1,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.678654651,105429
+33524,2 mg Dose,QW00737,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.391560117,53715
+33524,2 mg Dose,QW00737,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.025470333,176
+33524,2 mg Dose,QW00737,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.619772359,33270
+33524,2 mg Dose,QW00735,FLOW_Myeloid_PBMC,D3,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.617644122,111339
+33524,2 mg Dose,QW00735,FLOW_Myeloid_PBMC,D3,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.080047365,2028
+33524,2 mg Dose,QW00735,FLOW_Myeloid_PBMC,D3,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.562857143,62646
+33524,2 mg Dose,QW00670,FLOW_Myeloid_PBMC,D5,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.131836221,135836
+33524,2 mg Dose,QW00670,FLOW_Myeloid_PBMC,D5,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.045824631,1514
+33524,2 mg Dose,QW00670,FLOW_Myeloid_PBMC,D5,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.547244675,74202
+33524,2 mg Dose,QW00732,FLOW_Myeloid_PBMC,D7,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.438206039,138949
+33524,2 mg Dose,QW00732,FLOW_Myeloid_PBMC,D7,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.082556809,3030
+33524,2 mg Dose,QW00732,FLOW_Myeloid_PBMC,D7,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.494005142,68602
+33525,Placebo,QW00556,FLOW_Myeloid_PBMC,D1,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.612613033,131226
+33525,Placebo,QW00556,FLOW_Myeloid_PBMC,D1,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.452507274,5288
+33525,Placebo,QW00556,FLOW_Myeloid_PBMC,D1,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.600430285,78702
+33525,Placebo,QW00718,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.453191935,73631
+33525,Placebo,QW00718,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.477250409,2916
+33525,Placebo,QW00718,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.50656589,37264
+33525,Placebo,QW00699,FLOW_Myeloid_PBMC,D3,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.559803661,82229
+33525,Placebo,QW00699,FLOW_Myeloid_PBMC,D3,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.311268068,1895
+33525,Placebo,QW00699,FLOW_Myeloid_PBMC,D3,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.593763313,48783
+33525,Placebo,QW00684,FLOW_Myeloid_PBMC,D5,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.421768334,69197
+33525,Placebo,QW00684,FLOW_Myeloid_PBMC,D5,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.400320577,1998
+33525,Placebo,QW00684,FLOW_Myeloid_PBMC,D5,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.513051149,35478
+33525,Placebo,QW00709,FLOW_Myeloid_PBMC,D7,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.501312179,117479
+33525,Placebo,QW00709,FLOW_Myeloid_PBMC,D7,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.417808219,5002
+33525,Placebo,QW00709,FLOW_Myeloid_PBMC,D7,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.5635781,66128
+33526,2 mg Dose,QW00653,FLOW_Myeloid_PBMC,D1,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.648228103,122812
+33526,2 mg Dose,QW00653,FLOW_Myeloid_PBMC,D1,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.154211903,1946
+33526,2 mg Dose,QW00653,FLOW_Myeloid_PBMC,D1,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.593021929,72746
+33526,2 mg Dose,QW00602,FLOW_Myeloid_PBMC,D3,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.43496821,110759
+33526,2 mg Dose,QW00602,FLOW_Myeloid_PBMC,D3,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.232895389,3758
+33526,2 mg Dose,QW00602,FLOW_Myeloid_PBMC,D3,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.453341894,50131
+33526,2 mg Dose,QW00548,FLOW_Myeloid_PBMC,D5,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.423617741,182356
+33526,2 mg Dose,QW00548,FLOW_Myeloid_PBMC,D5,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.378667253,8609
+33526,2 mg Dose,QW00548,FLOW_Myeloid_PBMC,D5,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.186738018,33988
+33526,2 mg Dose,QW00599,FLOW_Myeloid_PBMC,D7,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.425972081,72808
+33526,2 mg Dose,QW00599,FLOW_Myeloid_PBMC,D7,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.214732143,2886
+33526,2 mg Dose,QW00599,FLOW_Myeloid_PBMC,D7,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.423342694,30755
+33526,2 mg Dose,QW00689,FLOW_Myeloid_PBMC,ET,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.600672023,134789
+33526,2 mg Dose,QW00689,FLOW_Myeloid_PBMC,ET,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.138944919,1791
+33526,2 mg Dose,QW00689,FLOW_Myeloid_PBMC,ET,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.51564357,69418
+33527,1 mg Dose,QW00619,FLOW_Myeloid_PBMC,D1,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.500535238,151964
+33527,1 mg Dose,QW00619,FLOW_Myeloid_PBMC,D1,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.13242446,1661
+33527,1 mg Dose,QW00619,FLOW_Myeloid_PBMC,D1,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.538103085,81641
+33527,1 mg Dose,QW00715,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.389334565,82602
+33527,1 mg Dose,QW00715,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.141141565,999
+33527,1 mg Dose,QW00715,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.572503885,47156
+33527,1 mg Dose,QW00636,FLOW_Myeloid_PBMC,D3,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.428805294,74390
+33527,1 mg Dose,QW00636,FLOW_Myeloid_PBMC,D3,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.21837857,1231
+33527,1 mg Dose,QW00636,FLOW_Myeloid_PBMC,D3,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.420508541,31240
+33527,1 mg Dose,QW00552,FLOW_Myeloid_PBMC,D5,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.428488124,218238
+33527,1 mg Dose,QW00552,FLOW_Myeloid_PBMC,D5,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.379110402,9742
+33527,1 mg Dose,QW00552,FLOW_Myeloid_PBMC,D5,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.106319716,23171
+33527,1 mg Dose,QW00677,FLOW_Myeloid_PBMC,D7,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.311802179,50854
+33527,1 mg Dose,QW00677,FLOW_Myeloid_PBMC,D7,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.21047664,892
+33527,1 mg Dose,QW00677,FLOW_Myeloid_PBMC,D7,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.441670771,22417
+33528,2 mg Dose,QW00639,FLOW_Myeloid_PBMC,D1,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.262269144,75918
+33528,2 mg Dose,QW00639,FLOW_Myeloid_PBMC,D1,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.242710265,1440
+33528,2 mg Dose,QW00639,FLOW_Myeloid_PBMC,D1,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.621852732,47124
+33528,2 mg Dose,QW00668,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.167353003,110498
+33528,2 mg Dose,QW00668,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.153299267,1380
+33528,2 mg Dose,QW00668,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.621005353,68441
+33528,2 mg Dose,QW00679,FLOW_Myeloid_PBMC,D3,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.308120587,95962
+33528,2 mg Dose,QW00679,FLOW_Myeloid_PBMC,D3,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.163345882,1779
+33528,2 mg Dose,QW00679,FLOW_Myeloid_PBMC,D3,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.569674826,54572
+33528,2 mg Dose,QW00690,FLOW_Myeloid_PBMC,D5,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.275284485,122917
+33528,2 mg Dose,QW00690,FLOW_Myeloid_PBMC,D5,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.200805802,3738
+33528,2 mg Dose,QW00690,FLOW_Myeloid_PBMC,D5,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.522682027,64062
+33528,2 mg Dose,QW00686,FLOW_Myeloid_PBMC,D7,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.213078402,130779
+33528,2 mg Dose,QW00686,FLOW_Myeloid_PBMC,D7,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.152619693,3379
+33528,2 mg Dose,QW00686,FLOW_Myeloid_PBMC,D7,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.503093765,65534
+33529,2 mg Dose,QW00724,FLOW_Myeloid_PBMC,D1,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.176971543,68451
+33529,2 mg Dose,QW00724,FLOW_Myeloid_PBMC,D1,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.516621522,4196
+33529,2 mg Dose,QW00724,FLOW_Myeloid_PBMC,D1,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.604093867,41317
+33529,2 mg Dose,QW00734,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.145955265,55961
+33529,2 mg Dose,QW00734,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.482435375,5095
+33529,2 mg Dose,QW00734,FLOW_Myeloid_PBMC,D15,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.505776109,28283
+33529,2 mg Dose,QW00763,FLOW_Myeloid_PBMC,D3,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.180903948,60082
+33529,2 mg Dose,QW00763,FLOW_Myeloid_PBMC,D3,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.571117674,7348
+33529,2 mg Dose,QW00763,FLOW_Myeloid_PBMC,D3,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.500124923,30026
+33529,2 mg Dose,QW00720,FLOW_Myeloid_PBMC,D5,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.176495798,102959
+33529,2 mg Dose,QW00720,FLOW_Myeloid_PBMC,D5,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.511684126,13335
+33529,2 mg Dose,QW00720,FLOW_Myeloid_PBMC,D5,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.464166578,47727
+33529,2 mg Dose,QW00743,FLOW_Myeloid_PBMC,D7,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes,Lymphocytes,LYMPHOCYTES,0.144369398,62094
+33529,2 mg Dose,QW00743,FLOW_Myeloid_PBMC,D7,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/CD3-CD20-/CD14+/Macrophages,Macrophages,MACROPHAGES,0.562512651,8337
+33529,2 mg Dose,QW00743,FLOW_Myeloid_PBMC,D7,7,PASS,0,fc,8,/FSC Singlets/SSC Singlets/Lymphocytes/Viable/Total T cells (CD3+),Total T cells (CD3+),TOTAL T CELLS (CD3+),0.454240568,28172
