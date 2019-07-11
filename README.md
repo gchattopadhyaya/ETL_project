@@ -1,4 +1,5 @@
 # ETL_project
+# Project Members: Lisa Nazer & Gargi Chattopadhyaya (We shared work in google drive and finally uploaded in Lisa's GIT location.)
 
     We performed ETL (extract, transform, load) on a set of csv files that were generated from a small clinical trial for patient response to a drug. The main point of this set of data is to determine if there is a difference between treatment groups (1mg/kg, 2mg/kg, placebo) and any differences between two ethnicities, caucasian and Japanese. Depending on the variation seen at different doses between ethnicities, it will determine how future clinical trials with this drug need to be designed (i.e. how much ethnic variation needs to be present in the trial). This is commonly used as gating criteria for clinical trial design and done on a smaller number of patients than a normal trial (less than 100 people as compared to thousands). The following describes each of the steps we took to perform ETL on this dataset. 
 
